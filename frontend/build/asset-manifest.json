@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/remrodri/traductor.git/static/css/main.a38bcba4.css",
+    "main.js": "/remrodri/traductor.git/static/js/main.7e8aa838.js",
+    "static/js/787.cda612ba.chunk.js": "/remrodri/traductor.git/static/js/787.cda612ba.chunk.js",
+    "static/media/background.jpg": "/remrodri/traductor.git/static/media/background.82311e7022d6193be22f.jpg",
+    "index.html": "/remrodri/traductor.git/index.html",
+    "main.a38bcba4.css.map": "/remrodri/traductor.git/static/css/main.a38bcba4.css.map",
+    "main.7e8aa838.js.map": "/remrodri/traductor.git/static/js/main.7e8aa838.js.map",
+    "787.cda612ba.chunk.js.map": "/remrodri/traductor.git/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a38bcba4.css",
+    "static/js/main.7e8aa838.js"
+  ]
+}
